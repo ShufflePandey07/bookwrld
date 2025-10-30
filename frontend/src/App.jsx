@@ -9,8 +9,8 @@ import BookDetails from './pages/BookDetails';
 import Checkout from './pages/Checkout';
 import OrderHistory from './pages/OrderHistory';
 import AdminDashboard from './pages/Admin/AdminDashboard';
-import ManageBooks from './pages/admin/ManageBooks';
-import ManageOrders from './pages/admin/ManageOrders';
+import ManageBooks from './pages/Admin/ManageBooks';
+import ManageOrders from './pages/Admin/ManageOrders';
 import ProtectedRoute from './components/ProtectedRoute';
 
 function App() {
